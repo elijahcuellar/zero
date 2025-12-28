@@ -8,8 +8,8 @@ import (
 )
 
 var (
-	version = "0.1.0"
-	date    = "2/6/2025"
+	version = "0.1.1"
+	date    = "12/28/2025"
 )
 
 // https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences
